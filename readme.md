@@ -12,6 +12,6 @@
 - 数据库支持
 
 
-## Build
-运行build.php，自动生成serverinfo.php
+## Usage
+运行build.php，自动生成serverinfo.php，上传到服务则可运行。
 
