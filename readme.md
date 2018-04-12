@@ -13,5 +13,5 @@
 
 
 ## Usage
-运行build.php，自动生成serverinfo.php，上传到服务则可运行。
+运行build.php，自动生成serverinfo.php，上传到服务器则可运行。
 
